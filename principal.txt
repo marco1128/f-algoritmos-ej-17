@@ -1,0 +1,13 @@
+Ciclos Repetitivos
+ 
+Los ciclos repetitivos también llamados lazos o bucles permiten repetir una operación o secuencia de operaciones en función de ciertas condiciones. Es un segmento de un algoritmo o programa cuyas instrucciones se repiten un número determinado de veces mientras se cumpla una determinada condición.
+Dentro de los ciclos se utilizan contadores y acumuladores, que regulan que el ciclo llegue a su fin.
+A.Contador: Es un tipo de variable que incrementa o decrementa su valor en un valor constante
+Cuando decimos incrementa estamos sumando.
+Ejemplo: Veces = Veces + 1
+Como se puede observar a la variable veces se le está incrementando un valor constante (1); es decir a su contenido le sumas el valor y se vuelve a guardar en la misma variable.
+B.  Acumulador: Es una variable que incrementa o decrementa su contenido en cantidades variables.
+
+El CICLO MIENTRAS ejecuta un bloque de acciones ‘mientras’ que una condición dada se cumpla, es decir, cuando la condición evalúa a verdadero. 
+La condición es evaluada antes de ejecutar el bloque de acciones y si la condición no se cumple, el bloque no se ejecuta. 
+De esta manera es que el número de repeticiones del bloque de acciones sea cero, pues, si la condición la primera vez evalúa a falso, el bloque no será ejecutado alguna vez.

@@ -1,0 +1,54 @@
+ 1  git init
+    2  git config --global user.name "Marco Briceño"
+    3  git config --global user.email "marcoantonio1128@hotmail.com"
+    4  git add README.md
+    5  git add README.md
+    6  git add README.md
+    7  git bash
+    8  git add README.md
+    9  git bash add README.md
+   10  git --bash add README.md
+   11  echo "# f-algorutmos-17" >> README.md
+   12  git init
+   13  git add .
+   14  git add README.md
+   15  git commit -m "first commit"
+   16  git remote add origin https://github.com/marco1128/f-algoritmos-17.git
+   17  git push -u origin master
+   18  git init
+   19  git add .
+   20  git clone https://github.com/marco1128/f-algoritmos-17.git
+   21  git clone https://github.com/marco1128/f-algoritmos-ej-17.git
+   22  git push -u origin master
+   23  git add README.md
+   24  git clone https://github.com/marco1128/f-algoritmos-ej-17.git
+   25  git status
+   26  git add .
+   27  git status
+   28  git commit -m "primer repositorio"
+   29  git status
+   30  git push -u origin master
+   31  git status
+   32  clear
+   33  git clone https://github.com/marco1128/f-algoritmos-ej-17.git
+   34  git status
+   35  git add .
+   36  git status
+   37  git push
+   38  git push -u origin master
+   39  git pull
+   40  git status
+   41  git commit -m "concepto"
+   42  git status
+   43  git push -u origin master
+   44  git add .
+   45  git status
+   46  git commit -m "borro carpeta inecesaria"
+   47  git push
+   48  git status
+   49  git commit -a -m "modificacion del texto"
+   50  git push -u origin master
+   51  git status
+   52  git history
+   53  history
+
